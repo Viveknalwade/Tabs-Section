@@ -1,0 +1,2 @@
+# Tabs-Section
+Our project involves creating a tab section that includes numerous tabs, each with a title and corresponding text. When you click on a tab, the title will be changed accordingly
